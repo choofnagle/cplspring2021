@@ -1,0 +1,1 @@
+This is the GitHub repository for UC Berkeley's Computer Programming for Lawyers course for the Spring 2021 semester.
