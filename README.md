@@ -1,1 +1,1 @@
-This is the GitHub repository for UC Berkeley's Computer Programming for Lawyers course for the Spring 2021 semester.
+This is the GitHub repository for UC Berkeley's Computer Programming for Lawyers course for the Spring 2021 semester. [Datahub link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchoofnagle%2Fcplspring2021&urlpath=tree%2Fcplspring2021%2F&branch=master).
